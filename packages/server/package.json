@@ -30,14 +30,14 @@
     "express": "^4.16.4",
     "express-basic-auth": "^1.2.0",
     "morgan": "^1.9.1",
-    "sequelize": "^4.44.3",
+    "sequelize": "^6.29.0",
     "umzug": "^2.2.0",
     "uuid": "^8.3.1"
   },
   "devDependencies": {
     "clsx": "^1.0.4",
     "d3": "^5.15.0",
-    "plotly.js": "^1.48.3",
+    "plotly.js": "^2.25.2",
     "preact": "^10.0.1",
     "preact-async-route": "^2.2.1",
     "preact-router": "^3.1.0",
