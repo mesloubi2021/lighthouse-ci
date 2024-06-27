@@ -5295,7 +5295,7 @@ agent-base@6, agent-base@^6.0.2:
   dependencies:
     debug "4"
 
-agent-base@^7.0.0:
+agent-base@^7.0.1:
   version "7.1.1"
   resolved "https://registry.yarnpkg.com/agent-base/-/agent-base-7.1.1.tgz#bdbded7dfb096b751a2a087eeeb9664725b2e317"
   integrity sha512-H0TSyFNDMomMNJQBn8wFV5YC/2eJ+VXECwOadZJT554xP6cODZHPX3H9QMQECxvrgiSOP1pHjy1sMWQVYJOUOA==
@@ -10815,11 +10815,11 @@ https-proxy-agent@^2.2.1:
     debug "^3.1.0"
 
 https-proxy-agent@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/https-proxy-agent/-/https-proxy-agent-6.0.0.tgz#036adbaba1c6810ce87216ed13cf698ec8672c17"
-  integrity sha512-g821um/ZvXlENs8tqKh96b6G0wafab6ypfkZdFZImJEGZrn47oLeRhWMKvCYxrasOgNi3Yh6Cxkws2Zn13v2QA==
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/https-proxy-agent/-/https-proxy-agent-6.1.0.tgz#e00f1efb849171ea349721481d3bcbef03ab4d13"
+  integrity sha512-rvGRAlc3y+iS7AC9Os2joN91mX8wHpJ4TEklmHHxr7Gz2Juqa7fJmJ8wWxXNpTaRt56MQTwojxV5d82UW/+jwg==
   dependencies:
-    agent-base "^7.0.0"
+    agent-base "^7.0.1"
     debug "4"
 
 human-signals@^2.1.0:
